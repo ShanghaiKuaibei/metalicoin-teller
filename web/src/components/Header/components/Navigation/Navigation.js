@@ -12,7 +12,7 @@ const Wrapper = styled.div`
   font-size: ${rem(FONT_SIZES[1])};
   padding-top: ${rem(SPACE[4])};
   text-align: left;
-  display: flex;
+  display: none;
   flex-wrap: wrap;
   align-items: center;
 

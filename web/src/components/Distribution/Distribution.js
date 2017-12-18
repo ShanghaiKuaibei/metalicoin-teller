@@ -190,6 +190,9 @@ class Distribution extends React.Component {
                 <Heading heavy as="h2" fontSize={[5, 6]} color="black" mb={[4, 6]}>
                   <FormattedMessage id="distribution.heading" />
                 </Heading>
+                <Text heavy color="black" fontSize={[2, 3]} as="div">
+                  <FormattedHTMLMessage id="distribution.instructions0" />
+                </Text>
                 <Text heavy color="black" fontSize={[2, 3]} mb={[4, 6]} as="div">
                   <FormattedMessage
                     id="distribution.rate"
