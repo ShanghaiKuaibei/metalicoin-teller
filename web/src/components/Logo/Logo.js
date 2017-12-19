@@ -4,7 +4,8 @@ import styled from 'styled-components';
 import { rem } from 'polished';
 
 import Link from 'components/Link';
-import logo from './logo.svg';
+// import logo from './logo.svg';
+import logo from './mtcn_logo.png';
 import logoWhite from './logoWhite.svg';
 
 const StyledLink = styled(Link)`

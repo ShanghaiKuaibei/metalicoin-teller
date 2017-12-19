@@ -31,11 +31,11 @@ export default () => (
         <Language><StyledLink to="/cn/">中文</StyledLink></Language>
       )}
     />
-    <Flag
+    {/* <Flag
       name="russian"
       render={() => (
         <Language><StyledLink to="/ru/">Ру́сский</StyledLink></Language>
       )}
-    />
+    /> */}
   </Languages>
 );

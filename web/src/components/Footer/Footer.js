@@ -6,9 +6,9 @@ import Text from 'components/Text';
 import Logo from 'components/Logo';
 
 import Languages from './components/Languages';
-import List from './components/List';
 import Email from './components/Email';
-import content from './content';
+// import List from './components/List';
+// import content from './content';
 
 export default () => (
   <div>

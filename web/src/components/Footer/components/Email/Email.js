@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
-const CONTACT_EMAIL = 'contact@skycoin.net';
+const CONTACT_EMAIL = 'info@metalicoin.com';
 
 const Email = styled.a`
   color: inherit;
