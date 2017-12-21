@@ -5,8 +5,9 @@ import { rem } from 'polished';
 
 import Link from 'components/Link';
 // import logo from './logo.svg';
+// import logoWhite from './logoWhite.svg';
 import logo from './mtcn_logo.png';
-import logoWhite from './logoWhite.svg';
+import logoWhite from './mtcn_logo.png';
 
 const StyledLink = styled(Link)`
   display: block;

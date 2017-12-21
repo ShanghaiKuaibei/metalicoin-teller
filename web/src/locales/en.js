@@ -47,7 +47,7 @@ export default {
     
     <ol>
       <li>Ensure the MetaliCoin smart-wallet app is installed on your Mac or Windows Desktop or Android smartphone (iOS coming soon)</li>
-      <li>From your smart-waller, get your MetaliCoin address, enter this into the field below and click “Get Address”</li>
+      <li>From your smart wallet, get your MetaliCoin address, enter this into the field below and click “Get Address”</li>
       <li>You will receive a unique BitCoin address you use to purchase MTCN</li>
       <li>Send the BTC from your BTC wallet to the address provided</li>
     </ol>
